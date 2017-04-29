@@ -1,0 +1,24 @@
+{
+  "name": "youtube2solr",
+  "version": "1.0.0",
+  "description": "Microservice that collects data from youtube Api to Solr. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/servatj/youtube2solr"
+  },
+  "keywords": [
+    "youtube",
+    "solr",
+    "api"
+  ],
+  "author": "Josep Servat Lorca",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.3.0",
+    "systemic": "^1.3.0"
+  }
+}
